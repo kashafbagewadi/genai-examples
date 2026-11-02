@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.txt
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Node and web build output
+node_modules/
+web/dist/
+web/playwright-report/
+web/test-results/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/

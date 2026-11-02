@@ -1,10 +1,16 @@
 import os
 import sys
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
+
+if not os.getenv("OPENAI_API_KEY"):
+    sys.exit("OPENAI_API_KEY is not set. Check your .env file (or exported shell variables).")
 
 client = OpenAI(
-    api_key=os.environ.get("OPENAI_API_KEY"),
-    base_url=os.environ.get("OPENAI_API_BASE")
+    api_key=os.getenv("OPENAI_API_KEY"),
+    base_url=os.getenv("OPENAI_API_BASE")
 )
 
 def clarify_bug(description: str) -> str:
@@ -17,7 +23,7 @@ Bug Description:
 """.strip()
 
     completion = client.chat.completions.create(
-        model="gpt-5.6-luna",
+        model="gpt-6-luna",
         messages=[{"role": "user", "content": prompt}],
         max_tokens=200,
         temperature=0.0,
@@ -34,6 +40,4 @@ if __name__ == "__main__":
         bug = input("Describe the bug (Enter to use the example): ").strip() or DEFAULT_BUG
 
     response = clarify_bug(bug)
-
-    print("=== Clarified Bug Summary ===")
     print(response)
