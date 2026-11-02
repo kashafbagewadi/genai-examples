@@ -4,3 +4,6 @@ This is a set of curated small GenAI applications designed for new learners usin
 ### Applications
 #### 1. Bug Classifier
 Transforms an informal bug report into a clear, structured, and professional issue summary using OpenAI.
+
+#### 2. Code Commenter
+Generate the meaningful comment for existing code base with the help of AI.
