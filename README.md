@@ -11,5 +11,11 @@ Generate the meaningful comment for existing code base with the help of AI.
 #### 3. Comparator
 Compares chipset used between two major iPhone models.
 
-Source of problem statements: KodeKloud 100 days AI Challenge
-Note: Code is updated or refined and not exactly the same as accepted answer.
+
+
+**Source of problem statements:**
+
+KodeKloud 100 days AI Challenge
+
+**Note:**
+Code samples are refined/updated, and not exactly the same as accepted answer from the KodeKloud.
