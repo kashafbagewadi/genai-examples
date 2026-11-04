@@ -7,3 +7,9 @@ Transforms an informal bug report into a clear, structured, and professional iss
 
 #### 2. Code Commenter
 Generate the meaningful comment for existing code base with the help of AI.
+
+#### 3. Comparator
+Compares chipset used between two major iPhone models.
+
+Source of problem statements: KodeKloud 100 days AI Challenge
+Note: Code is updated or refined and not exactly the same as accepted answer.
