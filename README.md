@@ -11,6 +11,9 @@ Generate the meaningful comment for existing code base with the help of AI.
 #### 3. Comparator
 Compares chipset used between two major iPhone models.
 
+#### 4. Text Converter
+Converts the given paragraph into concise, easy-to-read bullet points.
+
 
 
 **Source of problem statements:**
