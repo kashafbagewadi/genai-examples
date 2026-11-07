@@ -14,6 +14,9 @@ Compares chipset used between two major iPhone models.
 #### 4. Text Converter
 Converts the given paragraph into concise, easy-to-read bullet points.
 
+#### 5. Email Assistant
+Rewrites given messages into polite and professional emails.
+
 
 
 **Source of problem statements:**
