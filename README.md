@@ -17,6 +17,9 @@ Converts the given paragraph into concise, easy-to-read bullet points.
 #### 5. Email Assistant
 Rewrites given messages into polite and professional emails.
 
+### 6. Resume Extractor
+Extract comma-separated job-relevant keywords from a given resume paragraph.
+
 
 
 **Source of problem statements:**
