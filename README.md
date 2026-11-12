@@ -20,6 +20,8 @@ Rewrites given messages into polite and professional emails.
 ### 6. Resume Extractor
 Extract comma-separated job-relevant keywords from a given resume paragraph.
 
+### 7. Haiku Generator
+Generates three-line haikus (5-7-5 syllable pattern) based on a given topic.
 
 
 **Source of problem statements:**
