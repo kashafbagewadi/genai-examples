@@ -23,6 +23,9 @@ Extract comma-separated job-relevant keywords from a given resume paragraph.
 ### 7. Haiku Generator
 Generates three-line haikus (5-7-5 syllable pattern) based on a given topic.
 
+### 8. Text Summarizer
+Summarizes the given paragraph into a single-line summary.
+
 
 **Source of problem statements:**
 
