@@ -26,6 +26,9 @@ Generates three-line haikus (5-7-5 syllable pattern) based on a given topic.
 ### 8. Text Summarizer
 Summarizes the given paragraph into a single-line summary.
 
+### 9. Language Translator
+Translates English text into the given language using the OpenAI model.
+
 
 **Source of problem statements:**
 
