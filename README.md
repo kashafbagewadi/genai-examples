@@ -1,7 +1,7 @@
 ## Gen-AI examples
 This is a set of curated small GenAI applications designed for new learners using different LLMs.
 
-### Applications
+### Level1
 #### 1. Bug Classifier
 Transforms an informal bug report into a clear, structured, and professional issue summary using OpenAI.
 
@@ -17,18 +17,21 @@ Converts the given paragraph into concise, easy-to-read bullet points.
 #### 5. Email Assistant
 Rewrites given messages into polite and professional emails.
 
-### 6. Resume Extractor
+#### 6. Resume Extractor
 Extract comma-separated job-relevant keywords from a given resume paragraph.
 
-### 7. Haiku Generator
+#### 7. Haiku Generator
 Generates three-line haikus (5-7-5 syllable pattern) based on a given topic.
 
-### 8. Text Summarizer
+#### 8. Text Summarizer
 Summarizes the given paragraph into a single-line summary.
 
-### 9. Language Translator
+#### 9. Language Translator
 Translates English text into the given language using the OpenAI model.
 
+### Level2
+#### 1. Commit Generator
+Analyzes the code change summary and generates the clean, concise Git Commit in <type>: <subject> format.
 
 **Source of problem statements:**
 
