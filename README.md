@@ -33,6 +33,9 @@ Translates English text into the given language using the OpenAI model.
 #### 1. Commit Generator
 Analyzes the code change summary and generates the clean, concise Git Commit in <type>: <subject> format.
 
+#### 2. Log Analyzer
+Analyzes the log files and summarizes critical errors and it's immediate impact.
+
 **Source of problem statements:**
 
 KodeKloud 100 days AI Challenge

@@ -1,0 +1,5 @@
+[INFO] 2024-10-25 09:00:01 - System initialization complete.
+[WARN] 2024-10-25 09:00:05 - Database connection pool size is low (5/50).
+[INFO] 2024-10-25 09:01:10 - User 'alice' logged in successfully.
+[CRITICAL] 2024-10-25 09:01:15 - Exception: OutOfMemoryError in main thread. JVM heap exhausted. Shutting down service immediately.
+[INFO] 2024-10-25 09:02:00 - Scheduled task running.
