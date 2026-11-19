@@ -36,6 +36,9 @@ Analyzes the code change summary and generates the clean, concise Git Commit in 
 #### 2. Log Analyzer
 Analyzes the log files and summarizes critical errors and it's immediate impact.
 
+#### 3. Sentiment Analysis
+Analyzes the sentiment of a given text and returns both the Sentiment label (Positive, Negative, or Neutral) and a short Reason explaining the classification.
+
 **Source of problem statements:**
 
 KodeKloud 100 days AI Challenge
